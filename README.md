@@ -1,3 +1,4 @@
 # aathershah-HTML-PHP
-I have started learning web development a few weeks back and I thought that it will be helpful for fellow learners to refer to this repository if needed. 
-Any suggestions from the experienced developers would be highly appreciated. Happy learning!
+This repository contains material for the beginners and for the experienced ones who want to brush up the HTML5, CSS3 basics.
+As of now there are only HTML files and they are sequenced by names starting from 01_filename.html
+Other material will be uploaded very soon.
